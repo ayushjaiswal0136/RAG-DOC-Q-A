@@ -1,5 +1,5 @@
 langchain==0.0.335
-langchain-openai==0.0.1          # ✅ Supports tiktoken 0.5.1
+langchain-openai==0.0.1
 langchain-community==0.0.10
 langchain-core==0.1.10
 chromadb==0.3.29
@@ -7,7 +7,7 @@ streamlit==1.31.0
 python-dotenv==1.0.0
 pypdf==3.17.1
 openai>=1.6.1,<2.0.0
-tiktoken==0.5.1                  # ✅ No Rust needed
+tiktoken==0.5.1
 numpy==1.26.4
 pandas==2.0.3
 setuptools==69.0.3
